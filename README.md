@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rasoir-genereux
-- 👀 I’m interested in creating web sites
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to pratice my knowledges
+- 👀 I’m have interests for programming and data.
+- 🌱 I’m currently learning SQL, R and Python
+- 💞️ My goal is to get better at theses programming languages
 - 📫 How to reach me kevintonou@icloud.com
 
 <!---

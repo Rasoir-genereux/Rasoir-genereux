@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rasoir-genereux
-- 👀 I’m have interests for programming and data.
+- 👀 I have interests for programming and data.
 - 🌱 I’m currently learning SQL, R and Python
 - 💞️ My goal is to get better at theses programming languages
 
